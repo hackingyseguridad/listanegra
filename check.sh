@@ -3,8 +3,7 @@
 domains=(0spam.fusionzero.com 0spam-killlist.fusionzero.com
 0spamtrust.fusionzero.com access.redhawk.org accredit.habeas.com
 all.dnsbl.bit.nl all.rbl.jp all.s5h.net all.spamrats.com
-asn.routeviews.org aspath.routeviews.org aspews.ext.sorbs.net
-backscatter.spameatingmonkey.net badnets.spameatingmonkey.net
+asn.routeviews.org aspath.routeviews.org backscatter.spameatingmonkey.net badnets.spameatingmonkey.net
 bad.psky.me b.barracudacentral.org bb.barracudacentral.org
 bitonly.dnsbl.bit.nl blackholes.mail-abuse.org blacklist.sci.kun.nl
 blacklist.woody.ch bl.blocklist.de bl.drmx.org tor.dnsbl.sectoor.de
