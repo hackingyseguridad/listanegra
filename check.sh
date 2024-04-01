@@ -10,8 +10,7 @@ blacklist.woody.ch bl.blocklist.de bl.drmx.org tor.dnsbl.sectoor.de
 bl.konstant.no bl.mailspike.net bl.mav.com.br block.dnsbl.sorbs.net
 bl.rbl-dns.com bl.scientificspam.net bl.score.senderscore.com
 bl.spamcop.net bl.spameatingmonkey.net bl.spamstinks.com bl.suomispam.net
-bsb.empty.us bsb.spamlookup.net cbl.abuseat.org ccess.redhawk.org cml.anti-spam.org.cn
-combined.rbl.msrbl.net csi.cloudmark.com dnsbl-0.uceprotect.net
+bsb.empty.us bsb.spamlookup.net cbl.abuseat.org ccess.redhawk.org combined.rbl.msrbl.net csi.cloudmark.com dnsbl-0.uceprotect.net
 dnsbl-1.uceprotect.net dnsbl.anticaptcha.net dnsbl.aspnet.hu dnsblchile.org
 dnsbl.cobion.com dnsbl.justspam.org dnsbl.kempt.net dnsbl.madavi.de dnsbl.net.ua
 dnsbl.proxybl.org dnsbl.rizon.net dnsbl.rv-soft.info combined.njabl.org
