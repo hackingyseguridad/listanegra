@@ -1,7 +1,7 @@
 # listanegra
 
 
-# Consulta IPs en listas negras, blacklist
+# Consulta IPs en listas negras, blacklist IP
 
 ./checkip.sh       consulta una IP
 
