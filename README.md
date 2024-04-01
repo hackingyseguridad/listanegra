@@ -5,7 +5,7 @@
 
 ./checkip.sh       consulta una IP
 
-./check.sh         consulta fichero ip.txt
+./check2.sh         consulta fichero ip.txt
 
 # Consulta manual
 
