@@ -3,10 +3,9 @@
 
 # Consulta IPs en listas negras, blacklist
 
-checkip.sh consulta una IP
+./checkip.sh       consulta una IP
 
-check.sh consulta fichero ip.txt
-
+./check.sh         consulta fichero ip.txt
 
 # Consulta manual
 
