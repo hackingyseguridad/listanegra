@@ -52,8 +52,6 @@ bl.tiopan.com rbl.choon.net rwl.choon.net dnsbl-2.uceprotect.net
 dnsbl-3.uceprotect.net db.wpbl.info korea.services.net
 dnsbl.inps.de bl.shlink.org wl.shlink.org spamguard.leadmon.net )
 
-# ip check again rbl..
-
 for IP in `cat ip.txt`;do
   revv=$(echo "$IP"| awk -F "." '{print $4"."$3"."$2"."$1}')
   for domain in ${domains[*]}; do
