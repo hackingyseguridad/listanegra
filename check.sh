@@ -37,8 +37,7 @@ rbl.dns-servicios.com rbl.efnet.org rbl.fasthosts.co.uk rbl.iprange.net
 rbl.lugh.ch rbl-plus.mail-abuse.org rbl.schulte.org rbl.suresupport.com
 rbl.talkactive.net recent.spam.dnsbl.sorbs.net relays.bl.kundenserver.de
 relays.dnsbl.sorbs.net relays.mail-abuse.org relays.nether.net rep.mailspike.net
-rsbl.aupads.org sa-accredit.habeas.com safe.dnsbl.sorbs.net
-sa.senderbase.org sbl.nszones.com sbl-xbl.spamhaus.org score.senderscore.com
+rsbl.aupads.org sa-accredit.habeas.com sa.senderbase.org sbl.nszones.com sbl-xbl.spamhaus.org score.senderscore.com
 service.mailwhitelist.com singlebl.spamgrouper.com bl.nszones.com list.quorum.to
 singular.ttk.pte.hu sohul.habeas.com spam.dnsbl.anonmails.de spamlist.or.kr
 spam.pedantic.org spam.rbl.blockedservers.com spam.rbl.msrbl.net spamsources.fabel.dk
