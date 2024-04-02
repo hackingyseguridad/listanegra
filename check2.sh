@@ -59,9 +59,9 @@ for IP in `cat ip.txt`;do
       ipcheck=$(dig +short "$revv.${domain}")
       status=0
       if [[ -n "$ipcheck" ]]; then
-          echo -e "\e[1m\e[31mIP $IP is Blacklisted in ${domain} \e[0m" status code "$ipcheck"
+          echo -e "\e[1m\e[31mIP $IP esta en lista negra, blacklisted en : ${domain} \e[0m" status code "$ipcheck"
           status+=1
       fi
   done
-  [[ $status -ne 0 ]] && echo -e "\e[32m\e[1mIP $IP is Not Blacklisted in RBL.... \e[0m"
+  [[ $status -ne 0 ]] && echo -e "\e[32m\e[1mIP $IP No listada en RBL ... \e[0m"
 done
