@@ -1,5 +1,10 @@
-# listanegra
+# Instalar
 
+git clone https://github.com/hackingyseguridad/listanegra
+
+cd listanegra
+
+chmod 777 *
 
 # Consulta IPs en listas negras, blacklist IP
 
