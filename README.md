@@ -8,6 +8,8 @@ chmod 777 *
 
 # Consulta IPs en listas negras, blacklist IP
 
+./listanegra.sh    consulta mi IP actual
+
 ./checkip.sh       consulta una IP
 
 ./check2.sh         consulta fichero ip.txt
