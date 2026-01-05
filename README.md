@@ -38,7 +38,7 @@ chmod 777 *
 
 ./listanegra.sh     consulta mi IP actual
 
-./listanegra2.sh    consulta IPv4 o IPv6 desde fichero IP.txt
+./listanegra2.sh    consulta IPv4 o IPv6
 
 ./checkip.sh        consulta una IP
 
