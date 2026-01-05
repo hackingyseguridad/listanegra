@@ -1,8 +1,16 @@
-# Listanegra
+### Listanegra
 
+listas de IP que son herramientas técnicas , para filtrar y evitar IP o dominios utilizados para: 
 
+1º.- Spam de correo electronico, Phissing, SCAM. Spam distribuido en múltiples IPs.
 
+2º.- Spam support services. Servidores de bulletproof hosting.
 
+3º.- Phishing sites. Sitios de suplantación de identidad.
+
+4º.- Malware distribution. Sitios que distribuyen malware
+
+5º.- Botnet C&C. Servidores de control de botnets
 
 ### Consulta manual IP o dominio en lista negra ( blacklist )
 
