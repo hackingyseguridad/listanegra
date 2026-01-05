@@ -2,7 +2,7 @@
 
 
 
-# Consulta manual IP o dominio en lista negra ( blacklis )
+# Consulta manual IP o dominio en lista negra ( blacklist )
 
 https://whatismyipaddress.com/blacklist-check
 
