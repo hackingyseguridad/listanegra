@@ -2,7 +2,7 @@
 
 
 
-# Consulta manual IP o dominio en lista negra ( blacklist )
+### Consulta manual IP o dominio en lista negra ( blacklist )
 
 https://whatismyipaddress.com/blacklist-check
 
@@ -16,7 +16,7 @@ https://mxtoolbox.com/
 
 https://multirbl.valli.org/lookup/$IP.html
 
-# Instalar Git
+## Instalar Git
 
 git clone https://github.com/hackingyseguridad/listanegra
 
@@ -24,7 +24,7 @@ cd listanegra
 
 chmod 777 *
 
-# Consulta IPs en listas negras, blacklist IP
+### Consulta IPs en listas negras, blacklist IP
 
 ./listanegra.sh     consulta mi IP actual
 
@@ -33,6 +33,15 @@ chmod 777 *
 ./checkip.sh        consulta una IP
 
 ./check2.sh         consulta fichero ip.txt
+
+#
+
+http://www.hackingyseguridad.com/
+
+#
+
+
+
 
 
 
