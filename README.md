@@ -2,15 +2,15 @@
 
 listas de IP que son herramientas técnicas , para filtrar y evitar IP o dominios utilizados para: 
 
-1º.- Spam de correo electronico, Phissing, SCAM. Spam distribuido en múltiples IPs.
+1º.- Spam de correo electronico, Phissing, SCAM. Spam distribuido en múltiples IPs. Spam support services. Servidores de bulletproof hosting. Spambots	Equipos enviando spam localmente
 
-2º.- Spam support services. Servidores de bulletproof hosting.
+2º.- Phishing sites. Sitios de suplantación de identidad. 
 
-3º.- Phishing sites. Sitios de suplantación de identidad.
+3º.- Malware distribution. Sitios que distribuyen malware. IPs infectadas	PCs/equipos con malware
 
-4º.- Malware distribution. Sitios que distribuyen malware
+4º.- Botnet C&C. Servidores de control de botnets. Botnet zombies	Equipos parte de botnets.
 
-5º.- Botnet C&C. Servidores de control de botnets
+5º.- Proxy abiertos	Proxies HTTP/SOCKS comprometidos.
 
 ### Consulta manual IP o dominio en lista negra ( blacklist )
 
