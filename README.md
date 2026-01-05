@@ -2,7 +2,7 @@
 
 listas de IP que son herramientas técnicas , para filtrar y evitar IP o dominios utilizados para: 
 
-1º.- Spam de correo electronico, Phissing, SCAM. Spam distribuido en múltiples IPs. Spam support services. Servidores de bulletproof hosting. Spambots	Equipos enviando spam localmente
+1º.- Spam de correo electronico, Phissing email, SCAM. Spam distribuido en múltiples IPs. Spam support services. Servidores de bulletproof hosting. Spambots	Equipos enviando spam localmente
 
 2º.- Phishing sites. Sitios de suplantación de identidad. 
 
